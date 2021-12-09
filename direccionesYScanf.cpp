@@ -1,4 +1,4 @@
-/*programa para aprender especificadores de formato*/
+/*programa para aprender direcciones de variables y scanf*/
 
 #include <stdio.h>
 #include <stdlib.h>
